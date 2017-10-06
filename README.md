@@ -1,2 +1,2 @@
-# TESTGIT
-GitHub tutorial
+#README
+Testataan GitHubia.
